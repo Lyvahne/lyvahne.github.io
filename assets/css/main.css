@@ -1518,6 +1518,11 @@ input, select, textarea {
 				width: auto;
 			}
 
+	.img {
+			display: block;
+			width: 100%;
+		}
+
 /* List */
 
 	ul {
@@ -1949,6 +1954,16 @@ input, select, textarea {
 		}
 
 			.box.style3 header {
+				text-align: center;
+			}
+
+		.box.style4 {
+			background: #fff;
+			padding: 1em;
+			margin: 1em;
+		}
+
+			.box.style4 header {
 				text-align: center;
 			}
 
