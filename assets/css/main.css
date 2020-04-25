@@ -1519,9 +1519,10 @@ input, select, textarea {
 			}
 
 	.img {
-			display: block;
-			width: 60%;
-		}
+		display: block;
+    		margin-left: auto;
+    		margin-right: auto }
+	     }
 
 /* List */
 
