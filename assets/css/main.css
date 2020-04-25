@@ -1962,6 +1962,8 @@ input, select, textarea {
 			background: #fff;
 			padding: 1em;
 			margin: 1em;
+			margin-right: 1em;
+			padding-right: 1em;
 		}
 
 			.box.style4 header {
