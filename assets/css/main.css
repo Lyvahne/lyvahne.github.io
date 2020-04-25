@@ -1522,8 +1522,8 @@ input, select, textarea {
 		display: block;
     		margin-left: auto;
     		margin-right: auto; 
-		width: 1em;
-		height: 1em;
+		width: 200px;
+		height: 200px;
 	     }
 
 /* List */
