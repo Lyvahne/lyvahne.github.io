@@ -1953,6 +1953,7 @@ input, select, textarea {
 
 		.box.style3 {
 			background: #fff;
+			position: absolute;
 			padding: 2em;
 			margin: 2em;
 		}
